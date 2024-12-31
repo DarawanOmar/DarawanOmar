@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a dedicated full-stack web developer with two years of experience, primarily focused on Next.js and JavaScript. I thrive on creating robust web applications and have successfully developed projects like inventory management systems.
+I'm a dedicated full-stack web developer with two years of experience, primarily focused on Next.js and JavaScript. I thrive on creating robust web applications.
 
 
 ## 🌐 Socials:
